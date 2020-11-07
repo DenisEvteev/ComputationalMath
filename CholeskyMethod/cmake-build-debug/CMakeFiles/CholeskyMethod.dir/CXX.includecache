@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/CLionProjects/ComputationalMath/CholeskyMethod/main.cpp
+iostream
+-
+cmath
+-
+cstdlib
+-
+stdexcept
+-
+cassert
+-
+fstream
+-
+
