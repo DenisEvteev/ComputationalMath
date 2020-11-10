@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/CholeskyMethod.dir/main.cpp.o  -o CholeskyMethod 
